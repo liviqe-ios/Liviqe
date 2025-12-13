@@ -62,7 +62,7 @@ We reserve the right to update or modify this Privacy Policy at any time.
 
 If you have questions regarding this Privacy Policy, you may contact us at:  
 
-Email: [insert contact email]
+Email: liviqe.ios@gmail.com
 
 ## Jurisdiction
 
