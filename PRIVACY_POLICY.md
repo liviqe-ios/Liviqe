@@ -1,16 +1,16 @@
-# Privacy Policy for Liviqe
+# Privacy Policy for LiviQe
 
-Last updated: December 13, 2025
+Last updated: January 3, 2026
 
 ## Introduction
 
-Welcome to **Liviqe** (“the App”).  
+Welcome to **LiviQe** (“the App”).  
 This Privacy Policy explains how we handle information in relation to your use of the App.  
-By using Liviqe, you agree to the terms described in this Privacy Policy.
+By using LiviQe, you agree to the terms described in this Privacy Policy.
 
 ## No Data Collection
 
-Liviqe is designed with privacy as a core principle.  
+LiviQe is designed with privacy as a core principle.  
 
 - We **do not collect**, store, transmit, share, or process **any personal data**.  
 - We **do not collect** identifiable or non-identifiable information.  
@@ -30,7 +30,7 @@ Any data created, entered, or stored while using the App exists **only on your d
 
 ## Disclaimer of Liability
 
-Liviqe is provided **“as is”** and **“as available”**, without warranties of any kind.  
+LiviQe is provided **“as is”** and **“as available”**, without warranties of any kind.  
 
 To the maximum extent permitted by applicable law:  
 
@@ -42,13 +42,13 @@ Use of the App is **entirely at your own risk**.
 
 ## Third-Party Services
 
-Liviqe does **not** integrate with or rely on any third-party services that collect or process user data.  
+LiviQe does **not** integrate with or rely on any third-party services that collect or process user data.  
 
 If future versions introduce optional third-party features, this Privacy Policy will be updated accordingly.
 
 ## Children’s Privacy
 
-Liviqe does not knowingly collect any data from anyone, including children under the age of 13.  
+LiviQe does not knowingly collect any data from anyone, including children under the age of 13.  
 Since no data is collected, no personal information of children can be stored or processed.
 
 ## Changes to This Privacy Policy
@@ -67,3 +67,5 @@ Email: liviqe.ios@gmail.com
 ## Jurisdiction
 
 This Privacy Policy shall be governed and interpreted in accordance with applicable laws, without regard to conflict of law principles.
+
+© LiviQe 2026
